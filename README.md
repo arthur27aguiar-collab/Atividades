@@ -2,6 +2,7 @@ Arthur Abreu Aguiar
 <br>Diciplina: Introdução  construção de páginas web<br> <br>
 
 <p>Aula 05 - Formatação de Elementos HTML</p>
+<a href="Página Filme 12 strong.html">Atividade LIstas e citações</a>
 
 <br>
 <p>Aula 06 - Listas e Citações 24/Mar</p>
