@@ -6,11 +6,10 @@ Arthur Abreu Aguiar
 <br>Diciplina: Introdução  construção de páginas web<br> <br>
 
 <p>Aula 05 - Formatação de Elementos HTML</p>
-<a href="Página Filme 12 strong.html">Filme 12 Herois</a><br>
-
+<a href="Página Filme 12 strong.html" target="_blank">Filme 12 Herois</a><br>
 <br>
 <p>Aula 06 - Listas e Citações 24/Mar</p>
-<a href="Listas e citações1 (1).html">Atividade LIstas e citações</a><br><br>
+<a href="Listas e citações1 (1).html" target="_blank">Atividade LIstas e citações</a><br><br>
 
 <p>Aula 07 - Tabelas 31/03</p>
-<a href="Atv.web07.html">Atividade Tabelas</a><br><br>
+<a href="Atv.web07.html" target="_blank">Atividade Tabelas</a><br><br>
