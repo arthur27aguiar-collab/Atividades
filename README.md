@@ -1,6 +1,8 @@
- <img src=https://tse1.mm.bing.net/th/id/OIP.FCkFt_qRsdwtkqh44arZTgHaEP?pid=Api&P=0&h=180 style="display: block; margin: 0 auto;">
+
+<img width="122" height="170" alt="image" src="https://github.com/user-attachments/assets/9e2c92f3-122a-4d12-bbfb-5bc3c017ab51" />
 
 Arthur Abreu Aguiar 
+<br>Curso: Sistemas para Internet
 <br>Diciplina: Introdução  construção de páginas web<br> <br>
 
 <p>Aula 05 - Formatação de Elementos HTML</p>
