@@ -1,4 +1,5 @@
-<img src=http://www.ifto.edu.br/palmas/logohomecampuspalmas.png/@@images/bce35f5e-8244-4f40-b1cd-b5fed69d3f81.png>
+ <img src=https://tse1.mm.bing.net/th/id/OIP.FCkFt_qRsdwtkqh44arZTgHaEP?pid=Api&P=0&h=180 style="display: block; margin: 0 auto;">
+
 Arthur Abreu Aguiar 
 <br>Diciplina: Introdução  construção de páginas web<br> <br>
 
